@@ -1,15 +1,13 @@
 # TestReflex
 Trouver les informations pour tester
 
-
 git log
 git status
 git branch
+git diff
 
 
 0 initialiser git init
-
-
 
 
 1 ajouter des fichiers : selectionner avec git add file et faire ensuite un git commit -m "message tag"
