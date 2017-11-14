@@ -17,6 +17,7 @@ git branch
 2 realiser une branch git branch nomBranch et basculer sur la branche de travail pour modifier les fichiers git checkout nombranch
 
 ensuite refaire le 1 apres modification des fichiers modifiés
-et pour rassembler revenir sur la branche principale avec un git checkout master et refaire un git merge branch master
+
+3 et pour rassembler revenir sur la branche principale avec un git checkout master et refaire un git merge branch master
 
 
