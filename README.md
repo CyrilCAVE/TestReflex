@@ -18,4 +18,6 @@ ensuite refaire le 1 apres modification des fichiers modifiés
 
 3 et pour rassembler revenir sur la branche principale avec un git checkout master et refaire un git merge branch master
 
+git branch -d branchASupprimer
+
 
